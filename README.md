@@ -1,7 +1,7 @@
 # degrees
 Project 0
 
-This code is for Harvard's CS Aritifical Intelligence Course
+This code is for Harvard's CS Aritifical Intelligence Course.
 It implements the shortest path method using Breadth First Search to find the least amount of degree separation between 2 actors.
 For example if the 2 actors inputted are Daniel Radcliffe and Rosie Perez then the program will return the following:
   2 degrees of separation.
